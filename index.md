@@ -1,1 +1,1 @@
-## 这是一个新的博客
+## This is a new blog that about design and code.
